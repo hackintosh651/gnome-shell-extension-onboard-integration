@@ -6,4 +6,7 @@ Origonal Project: https://github.com/schuhumi/gnome-shell-extension-onboard-inte
 
 Has been updated by PeterPorker3/hackintosh651. Please distribute according to the attached GPLv3 license. 
 
+onboard must be installed
+sudo apt install onboard
+
 Also please feel free to contribute! It is faaaar from perfect. 
