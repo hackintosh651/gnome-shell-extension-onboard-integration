@@ -1,7 +1,7 @@
 // Origonal: https://github.com/schuhumi/gnome-shell-extension-onboard-integration
 // Forked by PeterPorker3 
 // https://github.com/PeterPorker3/gnome-shell-extension-onboard-integration/
-
+// forked by hackintosh651
 
 const St = imports.gi.St;
 const Main = imports.ui.main;
